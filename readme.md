@@ -63,7 +63,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/begench02/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=begench02">
 </a>
 <a href="https://github.com/begench02?tab=followers"><img src="https://img.shields.io/github/followers/begench02?label=Followers&style=social" alt="GitHub Badge"></a>
