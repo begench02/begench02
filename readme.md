@@ -28,9 +28,12 @@
     <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a> 
     <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a> 
     <a href="https://postman.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/></a>   
-    <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>   
+    <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a>    
     <a href="https://www.i18next.com/" target="_blank"> <img src="https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2F1143667985-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia"/> </a> 
     <a href="https://www.vim.org/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png"/></a> 
+    <a href="https://webpack.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webpack.png"/></a> 
+    <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" style="width: 48px; height: 48px"></a> 
+    <a href="https://svelte.dev/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/svetle.png"/></a> 
 </br>
 
 <p align="center">
