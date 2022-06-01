@@ -34,6 +34,7 @@
     <a href="https://webpack.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webpack.png"/></a> 
     <a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" style="width: 48px; height: 48px"></a> 
     <a href="https://svelte.dev/" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/svetle.png"/></a> 
+    <a href="https://threejs.org/" target="_blank"><img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width='43px'/></a> 
 </br>
 
 <p align="center">
