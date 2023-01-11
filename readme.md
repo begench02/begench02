@@ -1,24 +1,18 @@
 
 <div align='center'>
-<img src='icons/hacker.gif' width='40' />
+<img src='icons/hacker.gif' width='130' />
 
 # **Hi, I'm [Begench](www.linkedin.com/in/begench02)**
 
 </div>
 
-<br />
 
 ## 🙆‍♂️ **About Me:**
 
 -   📚 I’m currently learning **Computer Science**
 
 -   📫 You can reach me at **begenchgeldyev@gmail.com**
-
-<br />
-
 ___
-
-<br />
 
 ## ⚒️ **Skills:**
 
