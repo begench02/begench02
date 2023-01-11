@@ -1,11 +1,8 @@
-
 <div align='center'>
 <img src='icons/hacker.gif' width='130' />
 
 # **Hi, I'm [Begench](www.linkedin.com/in/begench02)**
-
 </div>
-
 
 ## 🙆‍♂️ **About Me:**
 
@@ -20,7 +17,7 @@ ___
 >![Typescript](icons/common/typescript.png) ![VIM](icons/common/vim.png) ![Git](icons/common/git.png) ![C/C++](icons/common/c++.png) 
 
 - ### _Frontend_: 
->![React](icons/frontend/react.png) ![Tailwind](icons/frontend/tailwind.png) ![SvelteKit](icons/frontend/svelte.png) ![Postman](icons/common/postman.png) ![Webpack](icons/common/webpack.png) 
+>![React](icons/frontend/react.png) ![Tailwind](icons/frontend/tailwind.png) ![SvelteKit](icons/frontend/svelte.png) ![Postman](icons/frontend/postman.png) ![Webpack](icons/frontend/webpack.png) 
 
 - ### _Backend_: 
 >![NodeJS](icons/backend/nodejs.png) ![NestJS](icons/backend/nestjs.png) ![PostgreSQL](icons/backend/postgresql.png)
