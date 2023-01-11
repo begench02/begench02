@@ -1,7 +1,7 @@
 <div align='center'>
 <img src='icons/hacker.gif' width='130' />
 
-# **Hi, I'm [Begench](www.linkedin.com/in/begench02)**
+# **Hi, I'm [Begench](https://www.linkedin.com/in/begench02)**
 </div>
 
 ## 🙆‍♂️ **About Me:**
